@@ -1,7 +1,8 @@
 # Transposition encryption and decryption program
 Transposition encryption/decryption algorithm is used to encrypt and decrypt a string using a given key
 ## Usage
-Usage: transposition.py [encryption/decryption] <msg> <key>
+Usage: 
+transposition.py [encryption/decryption] <msg> <key>
 You need to run this python file followed by the operation, message and the key. 
 ### Note
 For example, a key zebras contains the following two encryption information:
